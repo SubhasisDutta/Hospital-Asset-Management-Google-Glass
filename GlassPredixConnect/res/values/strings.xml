@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="app_name">GlassPredixConnect</string>
+    <string name="hello_world">Predix Connect</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- main activity strings -->
+    <string name="hello_glass">Hello Glass !</string>
+    <string name="home_url">www.ge.com</string>
+     
+    <!-- "ok glass" voice command -->
+    <string name="start_command">Hello App</string>
+    
+    <string name="start_helloglass">Hello Glass</string>
+    <string name="exit">Exit</string> 
+    <!-- <string name="scan">Scan Asset</string>
+    <string name="speak">Speak Issue</string>
+    <string name="report">Submit Report</string> -->
+    <string name="icenter">iCenter</string>
+    
+    <!-- <item name="exit" type="id"/> -->
+</resources>
+
+    
+   
+   

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestURL</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- main activity strings -->
+    <string name="hello_glass">Hello Glass !</string>
+    <string name="home_url">www.androidhive.info</string>
+     
+    <!-- "ok glass" voice command -->
+    <string name="start_command">Hello Test Url</string>
+
+</resources>
+

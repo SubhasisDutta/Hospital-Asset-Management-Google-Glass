@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GlassAppTest</string>
+    <string name="hello_world">Service Request</string>
+    <string name="action_settings">Settings</string>
+    <string name="start_helloglass">hello glass</string>
+    <string name="exit">Exit</string>
+    <string name="scan">Scan Asset</string>
+    <string name="speak">Speak Issue</string>
+    <string name="report">Submit Report</string>
+    <string name="icenter">iCenter</string>
+
+</resources>
